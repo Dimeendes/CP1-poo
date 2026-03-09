@@ -24,7 +24,7 @@ import br.com.fiapride.model.Veiculos;
 		 System.out.println("Gastando gasolina: ");
 		 Veiculo2.diminuirGasolina(15.7);
 		 
-		 //cadastro 3 (Teste com adicionar excedendo 100 negativo)
+		 //cadastro 3 (Teste com adicionar excedendo 100 litros)
 		 System.out.println("\nVeículo 3: ");
 		 Veiculos Veiculo3 = new Veiculos("Livia", "GHI-5348", 70);
 		 System.out.println("Adicionando gasolina: ");
